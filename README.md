@@ -69,4 +69,4 @@ The platform supports the following business processes:
 ---
 
 ## Author
-Artemie Țurcanu - Data Analyst.
+Artemie Țurcanu — Data Analyst
