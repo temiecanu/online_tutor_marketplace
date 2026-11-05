@@ -1,5 +1,7 @@
 # Online Tutor Marketplace
 
+Portfolio project built to simulate real business scenario I encountered in my work.
+
 ## Project Overview
 This project demonstrates the full data modeling lifecycle for an **Online Tutor Marketplace** platform.  
 The goal is to design and implement an **OLTP (Online Transaction Processing)** database schema that supports the core business processes of an e-learning marketplace — users, roles, courses, schedules, enrollments, and reviews.
