@@ -1,6 +1,6 @@
 # Online Tutor Marketplace
 
-Portfolio project built to simulate real business scenario I encountered in my work.
+Portfolio project built to simulate real business scenario and analytical tasks I encountered in my work.
 
 ## Project Overview
 This project demonstrates the full data modeling lifecycle for an **Online Tutor Marketplace** platform.  
